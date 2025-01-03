@@ -1,0 +1,90 @@
+[
+    {
+      "id": "1",
+      "tittle": "The Impact of Digital Detox on Mental Health",
+      "author": "WellnessWorks",
+      "content": "Digital detoxing involves taking a break from technology to improve mental clarity and reduce stress. Regular detoxes can enhance sleep quality, reduce anxiety, and boost overall productivity. This practice is particularly beneficial for individuals overwhelmed by constant notifications and screen time.",
+      "src": "/digital.jpeg"
+    },
+    {
+      "id": "2",
+      "tittle": "Top 10 Foods That Boost Immunity Naturally",
+      "author": "WellnessWorks",
+      "content": "Superfoods like turmeric, garlic, ginger, and citrus fruits are excellent for boosting immunity. Incorporating these into daily meals helps combat infections and enhances overall health. A balanced diet rich in vitamins and minerals can make a significant difference in your body's ability to fight diseases.",
+      "src": "/food.jpg"
+    },
+    {
+      "id": "3",
+      "tittle": "Mindfulness Practices for a Stress-Free Life",
+      "author": "WellnessWorks",
+      "content": "Mindfulness involves focusing on the present moment to reduce stress and enhance emotional well-being. Practices like meditation, deep breathing, and gratitude journaling help individuals stay grounded and improve mental resilience. Integrating mindfulness into daily routines can lead to a happier, healthier life.",
+      "src": "/mind.jpeg"
+    },
+    {
+      "id": "4",
+      "tittle": "The Science Behind Sleep and Productivity",
+      "author": "WellnessWorks",
+      "content": "Sleep plays a crucial role in cognitive performance, memory retention, and overall productivity. Studies show that consistent sleep patterns and quality rest help individuals make better decisions and stay energized throughout the day. Tips for better sleep hygiene include limiting screen time before bed and creating a calming bedtime routine.",
+      "src": "/sleep1.jpeg"
+    },
+    {
+      "id": "5",
+      "tittle": "The Benefits of Yoga for Mental and Physical Health",
+      "author": "WellnessWorks",
+      "content": "Yoga combines physical postures, breathing exercises, and meditation to promote mental and physical well-being. Regular yoga practice helps reduce anxiety, improve flexibility, and boost cardiovascular health. It is a holistic approach to achieving balance and harmony in life.",
+      "src": "/yoga.jpeg"
+    },
+    {
+      "id": "6",
+      "tittle": "Plant-Based Diets: Myths and Facts",
+      "author": "WellnessWorks",
+      "content": "Plant-based diets are gaining popularity for their health benefits and environmental impact. Contrary to myths, they can provide adequate protein and essential nutrients when well-planned. Discover how a plant-based lifestyle can improve heart health, support weight management, and contribute to a sustainable planet.",
+      "src": "/diet.jpeg"
+    },
+    {
+      "id": "7",
+      "tittle": "Hydration Tips for a Healthier You",
+      "author": "WellnessWorks",
+      "content": "Staying hydrated is essential for maintaining energy levels, cognitive function, and overall health. Learn how much water your body needs daily, the benefits of proper hydration, and creative ways to ensure you're drinking enough, including infusing water with fruits for added flavor.",
+      "src": "/hydr.jpg"
+    },
+    {
+      "id": "8",
+      "tittle": "The Role of Exercise in Mental Well-being",
+      "author": "WellnessWorks",
+      "content": "Exercise is not just for physical fitness—it also significantly impacts mental health. Regular physical activity helps release endorphins, reduce symptoms of depression, and improve focus. From walking to strength training, any form of exercise can contribute to better mental clarity and reduced stress.",
+      "src": "/mental.jpg"
+    },
+    {
+      "id": "9",
+      "tittle": "How to Build a Sustainable Morning Routine",
+      "author": "WellnessWorks",
+      "content": "A structured morning routine sets the tone for a productive day. Incorporating activities like stretching, mindful journaling, and a healthy breakfast can boost energy and focus. Discover simple tips to design a routine that aligns with your goals and supports long-term well-being.",
+      "src": "/routine.jpeg"
+    },
+    {
+      "id": "10",
+      "tittle": "The Connection Between Gut Health and Overall Wellness",
+      "author": "WellnessWorks",
+      "content": "Gut health is directly linked to immunity, mood, and overall wellness. A balanced gut microbiome can prevent illnesses and improve mental clarity. Learn about the best foods and habits to maintain a healthy gut, including probiotics, fiber-rich diets, and reducing processed food intake.",
+      "src": "/gut.jpeg"
+    },
+    {
+      "id": "11",
+      "tittle": "The Rise of Personalized Nutrition Through DNA Testing",
+      "author": "WellnessWorks",
+      "content": "Personalized nutrition is revolutionizing health by using DNA testing to create tailored diet plans. By analyzing genetic markers, individuals can uncover how their bodies process nutrients, identify potential deficiencies, and optimize their health through informed dietary choices.",
+      "src": "/dna.jpeg"
+    },
+    
+    {
+      "id": "12",
+      "tittle": "Biohacking Sleep for Maximum Recovery",
+      "author": "WellnessWorks",
+      "content": "Biohacking sleep focuses on optimizing rest through science-backed methods to enhance recovery and performance. Strategies include creating a sleep-friendly environment, using wearable technology to track sleep patterns, and incorporating practices like consistent sleep schedules, mindfulness, and supplements such as magnesium to improve sleep quality. These techniques can help boost energy, support mental clarity, and promote overall health.",
+      "src": "/bio.png"
+    }
+    
+    
+  ]
+  
